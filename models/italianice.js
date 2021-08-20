@@ -1,7 +1,7 @@
 const { Schema, model } = require("mongoose");
 
-//ICECREAM SCHEMA
-const iceCreamSchema = new Schema(
+//ITALIAN ICE SCHEMA
+const italianIceSchema = new Schema(
   {
     flavor: String,
     brand: String,
@@ -11,8 +11,8 @@ const iceCreamSchema = new Schema(
   { timestamps: true }
 );
 
-//ICECREAM MODEL
-const IceCream = model("IceCream", iceCreamSchema);
+//ITALIAN ICE MODEL
+const ItalianIce = model("ItalianIce", italianIceSchema);
 
 //EXPORT MODEL
-module.exports = IceCream;
+module.exports = ItalianIce;
