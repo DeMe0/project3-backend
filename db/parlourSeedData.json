@@ -29,7 +29,7 @@
     "address": "158 Irving Ave Brooklyn, NY 11237",
     "rating": "4.1",
     "ratingQty": "385",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629732775/project3/parlourPics/ollies_o3efn4.jpg"
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629753688/project3/parlourPics/ollies_fvvwcl.jpg"
   },
   {
     "name": "Milk Bar",
@@ -118,6 +118,46 @@
     "rating": "4.8",
     "ratingQty": "163",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629751917/project3/parlourPics/secret-creamery_dob5dg.jpg"
+  },
+  {
+    "name": "Gus Dean's Ice Cream",
+    "city": "Las Vegas",
+    "address": "3355 S Las Vegas Blvd Las Vegas, NV 89109",
+    "rating": "4.1",
+    "ratingQty": "104",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629752309/project3/parlourPics/gus-deans_ugaw4i.jpg"
+  },
+  {
+    "name": "Carmela Ice Cream Co.",
+    "city": "Los Angeles",
+    "address": "2495 E Washington Blvd Pasadena, CA 91104",
+    "rating": "4.1",
+    "ratingQty": "104",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629753267/project3/parlourPics/carmela_hnuh5c.jpg"
+  },
+  {
+    "name": "Fatamorgana Gelato",
+    "city": "Los Angeles",
+    "address": "12021 Ventura ",
+    "rating": "4.1",
+    "ratingQty": "104",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629752309/project3/parlourPics/gus-deans_ugaw4i.jpg"
+  },
+  {
+    "name": "Gus Dean's Ice Cream",
+    "city": "Las Vegas",
+    "address": "3355 S Las Vegas Blvd Las Vegas, NV 89109",
+    "rating": "4.1",
+    "ratingQty": "104",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629752309/project3/parlourPics/gus-deans_ugaw4i.jpg"
+  },
+  {
+    "name": "Gus Dean's Ice Cream",
+    "city": "Las Vegas",
+    "address": "3355 S Las Vegas Blvd Las Vegas, NV 89109",
+    "rating": "4.1",
+    "ratingQty": "104",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629752309/project3/parlourPics/gus-deans_ugaw4i.jpg"
   },
   {
     "name": "Gus Dean's Ice Cream",
