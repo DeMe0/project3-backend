@@ -1,20 +1,20 @@
-const IceCream = require("../models/icecream");
+const Parlour = require("../models/parlour");
 const { Router } = require("express");
 const router = Router();
-const iceCreamSeed = require("../db/iceCreamSeedData.json");
+const parlourSeed = require("../db/parlourSeedData.json");
 
 // Seed Route for Seeding Database
 router.get("/seed", async (req, res) => {
   // try block for catching errors
   try {
-    // remove all IceCream from database
-    await IceCream.remove({});
+    // remove all Parlours from database
+    await Parlour.remove({});
     // add the seed data to the database
-    await IceCream.create(iceCreamSeed);
-    // get full list of ice creams to confirm seeding worked
-    const icecreams = await IceCream.find({});
-    // return full list of ice creams as JSON
-    res.json(icecreams);
+    await Parlour.create(parlourSeed);
+    // get full list of parlours to confirm seeding worked
+    const parlours = await Parlour.find({});
+    // return full list of parlours as JSON
+    res.json(parlours);
   } catch (error) {
     // return error as JSON with an error status
     res.status(400).json(error);
@@ -23,24 +23,24 @@ router.get("/seed", async (req, res) => {
 
 //index route
 router.get("/", async (req, res) => {
-  res.json(await IceCream.find({}));
+  res.json(await Parlour.find({}));
 });
 
 //create route
 router.post("/", async (req, res) => {
-  res.json(await IceCream.create(req.body));
+  res.json(await Parlour.create(req.body));
 });
 
 //update route
 router.put("/:id", async (req, res) => {
   res.json(
-    await IceCream.findByIdAndUpdate(req.params.id, req.body, { new: true })
+    await Parlour.findByIdAndUpdate(req.params.id, req.body, { new: true })
   );
 });
 
 //delete route
 router.delete("/:id", async (req, res) => {
-  res.json(await IceCream.findByIdAndRemove(req.params.id));
+  res.json(await Parlour.findByIdAndRemove(req.params.id));
 });
 
 // EXPORT ROUTER

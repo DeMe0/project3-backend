@@ -1,6 +1,6 @@
 const { Schema, model } = require("mongoose");
 
-//ICECREAM SCHEMA
+//POPSICLE SCHEMA
 const popsicleSchema = new Schema(
   {
     flavor: String,
@@ -12,7 +12,7 @@ const popsicleSchema = new Schema(
 );
 
 //ICECREAM MODEL
-const Popsicle = model("IceCream", popsicleSchema);
+const Popsicle = model("Popsicle", popsicleSchema);
 
 //EXPORT MODEL
 module.exports = Popsicle;

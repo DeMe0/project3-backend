@@ -1,5 +1,37 @@
 [
   {
-    "placeholder": "placeholder"
+    "flavor": "Butter Pecan Ice Cream Popsicle",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479367/project3/00055000547321_fkmgam.jpg",
+    "containsDairy": true
+  },
+  {
+    "flavor": "Wildberry Cheesecake Ice Cream Popsicle",
+    "brand": "Trader Joe's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479460/project3/mlq3uwr4fn671_xzryh1.jpg",
+    "containsDairy": true
+  },
+  {
+    "flavor": "Pineapple Upside Down Cake Ice Cream Popsicle",
+    "brand": "Jeni's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479584/project3/resize_afyek5.webp",
+    "containsDairy": true
+  },
+  {
+    "flavor": "Phish Food Popsicle",
+    "brand": "Ben & Jerry's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494078/project3/phish_food_oa7uwz.webp",
+    "containsDairy": true
+  },
+  {
+    "flavor": "Dulce de Leche Popsicle",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494405/project3/dulce-de-leche_pudnvp.webp",
+    "containsDairy": true
   }
 ]

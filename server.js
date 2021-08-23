@@ -17,6 +17,8 @@ const app = express();
 //OTHER IMPORTS
 const morgan = require("morgan");
 const iceCreamRouter = require("./controllers/icecream");
+const parlourRouter = require("./controllers/parlour");
+const popsicleRouter = require("./controllers/popsicle");
 
 ////////////
 //MIDDLEWARE
@@ -34,8 +36,10 @@ app.get("/", (req, res) => {
   res.json({ msg: "Server is working!" });
 });
 
-// Dog Routes send to dog router
+// Routes send users to each respective router
 app.use("/icecream", iceCreamRouter);
+app.use("/parlours", parlourRouter);
+app.use("/popsicle", popsicleRouter);
 
 //LISTENER
 app.listen(PORT, () => {

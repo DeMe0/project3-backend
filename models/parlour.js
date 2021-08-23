@@ -1,17 +1,19 @@
 const { Schema, model } = require("mongoose");
 
-//DOG SCHEMA
+//PARLOUR SCHEMA
 const parlourSchema = new Schema(
   {
     name: String,
     city: String,
+    address: String,
+    rating: String,
+    ratingQty: String,
     img: String,
-    containsDairy: Boolean,
   },
   { timestamps: true }
 );
 
-//ICECREAM MODEL
+//Parlour MODEL
 const Parlour = model("Parlour", parlourSchema);
 
 //EXPORT MODEL
