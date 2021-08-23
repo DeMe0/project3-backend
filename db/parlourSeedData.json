@@ -29,7 +29,7 @@
     "address": "158 Irving Ave Brooklyn, NY 11237",
     "rating": "4.1",
     "ratingQty": "385",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629732574/project3/parlourPics/tipsy_scoop_gemjw3.jpg"
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629732775/project3/parlourPics/ollies_o3efn4.jpg"
   },
   {
     "name": "Milk Bar",
@@ -86,5 +86,45 @@
     "rating": "4.2",
     "ratingQty": "219",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629750338/project3/parlourPics/cookie-spin_iipqog.jpg"
+  },
+  {
+    "name": "Lappert's Ice Cream",
+    "city": "Las Vegas",
+    "address": "12 E Ogden Ave Las Vegas, NV 89101",
+    "rating": "4.4",
+    "ratingQty": "106",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629751485/project3/parlourPics/lapperts_ztanwx.jpg"
+  },
+  {
+    "name": "Luv-it Frozen Custard",
+    "city": "Las Vegas",
+    "address": "505 E Oakley Blvd Las Vegas, NV 89104",
+    "rating": "4.2",
+    "ratingQty": "219",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629751535/project3/parlourPics/luv-it_jgbxoe.jpg"
+  },
+  {
+    "name": "Sticks and Shakes",
+    "city": "Las Vegas",
+    "address": "3200 S Las Vegas Blvd Las Vegas, NV 89109",
+    "rating": "4.1",
+    "ratingQty": "463",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629751767/project3/parlourPics/sticks-and-shakes_q8kpph.jpg"
+  },
+  {
+    "name": "Secret Creamery",
+    "city": "Las Vegas",
+    "address": "3449 Sammy Davis Jr Dr Las Vegas, NV 89109",
+    "rating": "4.8",
+    "ratingQty": "163",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629751917/project3/parlourPics/secret-creamery_dob5dg.jpg"
+  },
+  {
+    "name": "Gus Dean's Ice Cream",
+    "city": "Las Vegas",
+    "address": "3355 S Las Vegas Blvd Las Vegas, NV 89109",
+    "rating": "4.1",
+    "ratingQty": "104",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629752309/project3/parlourPics/gus-deans_ugaw4i.jpg"
   }
 ]
