@@ -141,30 +141,30 @@
     "address": "12021 Ventura ",
     "rating": "4.1",
     "ratingQty": "104",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629752309/project3/parlourPics/gus-deans_ugaw4i.jpg"
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629753919/project3/parlourPics/fatamorgana-gelato_dp5qsn.jpg"
   },
   {
-    "name": "Gus Dean's Ice Cream",
-    "city": "Las Vegas",
-    "address": "3355 S Las Vegas Blvd Las Vegas, NV 89109",
-    "rating": "4.1",
-    "ratingQty": "104",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629752309/project3/parlourPics/gus-deans_ugaw4i.jpg"
+    "name": "Mashti Malone's Ice Cream",
+    "city": "Los Angeles",
+    "address": "1525 N La Brea Ave Los Angeles, CA 90028",
+    "rating": "4.7",
+    "ratingQty": "1.0K",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629754413/project3/parlourPics/mashti-malones_hiqqgb.jpg"
   },
   {
-    "name": "Gus Dean's Ice Cream",
-    "city": "Las Vegas",
-    "address": "3355 S Las Vegas Blvd Las Vegas, NV 89109",
-    "rating": "4.1",
-    "ratingQty": "104",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629752309/project3/parlourPics/gus-deans_ugaw4i.jpg"
+    "name": "Fosselman's Ice Cream Co.",
+    "city": "Los Angeles",
+    "address": "1824 W Main St Alhambra, CA 91801",
+    "rating": "4.7",
+    "ratingQty": "1.8K",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629754506/project3/parlourPics/fosselmans_olfmst.jpg"
   },
   {
-    "name": "Gus Dean's Ice Cream",
-    "city": "Las Vegas",
-    "address": "3355 S Las Vegas Blvd Las Vegas, NV 89109",
-    "rating": "4.1",
-    "ratingQty": "104",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629752309/project3/parlourPics/gus-deans_ugaw4i.jpg"
+    "name": "Bumsan Organic Milk Bar",
+    "city": "Los Angeles",
+    "address": "534 S Western Ave Los Angeles, CA 90020",
+    "rating": "4.5",
+    "ratingQty": "603",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629754763/project3/parlourPics/bumsan_uscct9.jpg"
   }
 ]
