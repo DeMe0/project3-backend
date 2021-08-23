@@ -19,19 +19,19 @@
   },
   {
     "flavor": "Salted Caramel Whiskey",
-    "store": "Morganstern's Finest Ice Cream's",
+    "store": "Morgenstern's Finest Ice Cream",
     "type": "Drink",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479367/project3/00055000547321_fkmgam.jpg",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629749208/project3/drinkPics/Salted-Caramel-Whiskey_yr2xgk.jpg",
     "price": 18,
     "containsDairy": true,
     "containsAlcohol": true
   },
   {
     "flavor": "Strawberry Daiquiri",
-    "store": "Morganstern's Finest Ice Cream's",
+    "store": "Morganstern's Finest Ice Cream",
     "type": "Drink",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479367/project3/00055000547321_fkmgam.jpg",
-    "price": 5.99,
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629749241/project3/drinkPics/daiquiri_byuniu.jpg",
+    "price": 18,
     "containsDairy": true,
     "containsAlcohol": true
   }
