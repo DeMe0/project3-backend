@@ -39,7 +39,7 @@ app.get("/", (req, res) => {
 // Routes send users to each respective router
 app.use("/icecream", iceCreamRouter);
 app.use("/parlours", parlourRouter);
-app.use("/popsicle", popsicleRouter);
+app.use("/popsicles", popsicleRouter);
 
 //LISTENER
 app.listen(PORT, () => {
