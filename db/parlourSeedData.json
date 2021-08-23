@@ -46,5 +46,45 @@
     "rating": "4.8",
     "ratingQty": "1.2K",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629736699/project3/parlourPics/eddies_sweet_shop_jc3hrg.jpg"
+  },
+  {
+    "name": "Taiyaki Chicago",
+    "city": "Chicago",
+    "address": "2468 N Clark St Chicago, IL 60614",
+    "rating": "4.3",
+    "ratingQty": "835",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629749643/project3/parlourPics/taiyaki-chicago_zkq0pl.jpg"
+  },
+  {
+    "name": "KURIMU",
+    "city": "Chicago",
+    "address": "1159 W Taylor St Chicago, IL 60607",
+    "rating": "4.6",
+    "ratingQty": "396",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629749799/project3/parlourPics/kurimu_gpltcv.jpg"
+  },
+  {
+    "name": "La Michoacana Premium",
+    "city": "Chicago",
+    "address": "1855 S Blue Island Ave Chicago, IL 60608",
+    "rating": "4.5",
+    "ratingQty": "1.2K",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629749950/project3/parlourPics/la-michoacana_frvvhd.jpg"
+  },
+  {
+    "name": "Rainbow Cone Ice Cream Shop",
+    "city": "Chicago",
+    "address": "9233 S Western Ave Chicago, IL 60643",
+    "rating": "4.7",
+    "ratingQty": "2.1K",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629750108/project3/parlourPics/rainbow-cone_qriue6.jpg"
+  },
+  {
+    "name": "Cookie Spin",
+    "city": "Chicago",
+    "address": "4350 N Leavitt St Chicago, IL 60618",
+    "rating": "4.2",
+    "ratingQty": "219",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629750338/project3/parlourPics/cookie-spin_iipqog.jpg"
   }
 ]

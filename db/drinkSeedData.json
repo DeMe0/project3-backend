@@ -34,5 +34,41 @@
     "price": 18,
     "containsDairy": true,
     "containsAlcohol": true
+  },
+  {
+    "flavor": "Salted Caramel Whiskey",
+    "store": "Morgenstern's Finest Ice Cream",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629749208/project3/drinkPics/Salted-Caramel-Whiskey_yr2xgk.jpg",
+    "price": 18,
+    "containsDairy": true,
+    "containsAlcohol": true
+  },
+  {
+    "flavor": "Salted Caramel Whiskey",
+    "store": "Morgenstern's Finest Ice Cream",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629749208/project3/drinkPics/Salted-Caramel-Whiskey_yr2xgk.jpg",
+    "price": 18,
+    "containsDairy": true,
+    "containsAlcohol": true
+  },
+  {
+    "flavor": "Salted Caramel Whiskey",
+    "store": "Morgenstern's Finest Ice Cream",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629749208/project3/drinkPics/Salted-Caramel-Whiskey_yr2xgk.jpg",
+    "price": 18,
+    "containsDairy": true,
+    "containsAlcohol": true
+  },
+  {
+    "flavor": "The Bake Shake",
+    "store": "Cookie Spin",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629750219/project3/drinkPics/bake-shake_moyqii.webp",
+    "price": 10.5,
+    "containsDairy": true,
+    "containsAlcohol": false
   }
 ]
