@@ -5,7 +5,9 @@ const iceCreamSchema = new Schema(
   {
     flavor: String,
     brand: String,
+    type: String,
     img: String,
+    price: Number,
     containsDairy: Boolean,
   },
   { timestamps: true }

@@ -19,6 +19,7 @@ const morgan = require("morgan");
 const iceCreamRouter = require("./controllers/icecream");
 const parlourRouter = require("./controllers/parlour");
 const popsicleRouter = require("./controllers/popsicle");
+const iceRouter = require("./controllers/ice");
 
 ////////////
 //MIDDLEWARE
@@ -40,6 +41,7 @@ app.get("/", (req, res) => {
 app.use("/icecream", iceCreamRouter);
 app.use("/parlours", parlourRouter);
 app.use("/popsicles", popsicleRouter);
+app.use("/ice", iceRouter);
 
 //LISTENER
 app.listen(PORT, () => {

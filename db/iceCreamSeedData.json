@@ -4,6 +4,7 @@
     "brand": "Häagen-Dazs",
     "type": "Ice Cream",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479367/project3/00055000547321_fkmgam.jpg",
+    "price": 5.99,
     "containsDairy": true
   },
   {
@@ -11,6 +12,7 @@
     "brand": "Trader Joe's",
     "type": "Ice Cream",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479460/project3/mlq3uwr4fn671_xzryh1.jpg",
+    "price": 5.99,
     "containsDairy": true
   },
   {
@@ -18,6 +20,7 @@
     "brand": "Jeni's",
     "type": "Ice Cream",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479584/project3/resize_afyek5.webp",
+    "price": 8.99,
     "containsDairy": true
   },
   {
@@ -25,6 +28,7 @@
     "brand": "Ben & Jerry's",
     "type": "Ice Cream",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494078/project3/phish_food_oa7uwz.webp",
+    "price": 6.99,
     "containsDairy": true
   },
   {
@@ -32,6 +36,7 @@
     "brand": "Häagen-Dazs",
     "type": "Ice Cream",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494405/project3/dulce-de-leche_pudnvp.webp",
+    "price": 5.99,
     "containsDairy": true
   }
 ]

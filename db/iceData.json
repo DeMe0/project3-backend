@@ -1,0 +1,114 @@
+[
+  {
+    "flavor": "Lemon-Lime",
+    "brand": "Fla•Vor•Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 0.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Berry Punch",
+    "brand": "Fla•Vor•Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 0.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Grape",
+    "brand": "Fla•Vor•Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 0.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Strawberry",
+    "brand": "Fla•Vor•Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 0.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Orange",
+    "brand": "Fla•Vor•Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 0.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Tropical Punch",
+    "brand": "Fla•Vor•Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 0.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Lemon",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Strawberry",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Cherry",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Chocolate",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Blue Raspberry",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Mango",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Watermelon",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Orange",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "price": 1.99,
+    "containsDairy": false
+  }
+]

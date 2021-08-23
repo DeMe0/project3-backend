@@ -1,5 +1,38 @@
 [
   {
-    "placeholder": "placeholder"
+    "flavor": "Vanilla Malt",
+    "store": "Eddie's Sweet Shop",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629739769/project3/drinkPics/vanilla-malted-milk-shake_un945z.jpg",
+    "price": 6.49,
+    "containsDairy": true,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Ice Cream Float",
+    "store": "Eddie's Sweet Shop",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629739868/project3/drinkPics/ice-cream-float_sljaqa.jpg",
+    "price": 6.49,
+    "containsDairy": true,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Salted Caramel Whiskey",
+    "store": "Morganstern's Finest Ice Cream's",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479367/project3/00055000547321_fkmgam.jpg",
+    "price": 18,
+    "containsDairy": true,
+    "containsAlcohol": true
+  },
+  {
+    "flavor": "Strawberry Daiquiri",
+    "store": "Morganstern's Finest Ice Cream's",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479367/project3/00055000547321_fkmgam.jpg",
+    "price": 5.99,
+    "containsDairy": true,
+    "containsAlcohol": true
   }
 ]

@@ -4,9 +4,12 @@ const { Schema, model } = require("mongoose");
 const drinkSchema = new Schema(
   {
     flavor: String,
-    brand: String,
+    store: String,
+    type: String,
     img: String,
+    price: Number,
     containsDairy: Boolean,
+    containsAlcohol: Boolean,
   },
   { timestamps: true }
 );

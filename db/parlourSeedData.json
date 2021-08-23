@@ -38,5 +38,13 @@
     "rating": "4.6",
     "ratingQty": "482",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629733068/project3/parlourPics/milkbar_xq5wpf.jpg"
+  },
+  {
+    "name": "Eddie's Sweet Shop",
+    "city": "New York",
+    "address": "105-29 Metropolitan Ave Queens, NY 11375",
+    "rating": "4.8",
+    "ratingQty": "1.2K",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629736699/project3/parlourPics/eddies_sweet_shop_jc3hrg.jpg"
   }
 ]
