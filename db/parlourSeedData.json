@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Morganstern's Finest Ice Cream",
+    "city": "New York",
+    "address": "2 Rivington St New York, NY 10002",
+    "rating": "4.3",
+    "ratingQty": "1.5K",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629731284/project3/parlourPics/morgansterns_puodyo.jpg"
+  },
+  {
+    "name": "Van Leeuwen Ice Cream",
+    "city": "New York",
+    "address": "204 Wythe Ave Brooklyn NY 11249",
+    "rating": "4.6",
+    "ratingQty": "246",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629732137/project3/parlourPics/van_leeuwen_wbpzvw.jpg"
+  },
+  {
+    "name": "The Tipsy Scoop",
+    "city": "New York",
+    "address": "270 Metropolitan Ave Brooklyn NY 11211",
+    "rating": "4.9",
+    "ratingQty": "1.1K",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629732574/project3/parlourPics/tipsy_scoop_gemjw3.jpg"
+  },
+  {
+    "name": "Ollie's Ice Cream & Stuff ",
+    "city": "New York",
+    "address": "158 Irving Ave Brooklyn, NY 11237",
+    "rating": "4.1",
+    "ratingQty": "385",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629732574/project3/parlourPics/tipsy_scoop_gemjw3.jpg"
+  },
+  {
+    "name": "Milk Bar",
+    "city": "New York",
+    "address": "382 Metropolitan Ave Brooklyn, NY 11211",
+    "rating": "4.6",
+    "ratingQty": "482",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629733068/project3/parlourPics/milkbar_xq5wpf.jpg"
+  }
+]
