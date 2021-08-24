@@ -1,37 +1,162 @@
 [
   {
-    "flavor": "Butter Pecan Ice Cream Popsicle",
-    "brand": "Häagen-Dazs",
-    "type": "Ice Cream",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479367/project3/00055000547321_fkmgam.jpg",
+    "flavor": "Toasted Almond Good Humor Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776158/project3/popsiclePics/toasted-almond_cvhoui.webp",
+    "price": 3.99,
     "containsDairy": true
   },
   {
-    "flavor": "Wildberry Cheesecake Ice Cream Popsicle",
-    "brand": "Trader Joe's",
-    "type": "Ice Cream",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479460/project3/mlq3uwr4fn671_xzryh1.jpg",
+    "flavor": "Strawberry Shortcake Good Humor Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776228/project3/popsiclePics/strawberry-shortcake-bar_gvrmtk.webp",
+    "price": 3.99,
     "containsDairy": true
   },
   {
-    "flavor": "Pineapple Upside Down Cake Ice Cream Popsicle",
-    "brand": "Jeni's",
-    "type": "Ice Cream",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479584/project3/resize_afyek5.webp",
+    "flavor": "Oreo Good Humor Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776325/project3/popsiclePics/oreo-bar_ha4hu6.webp",
+    "price": 3.99,
     "containsDairy": true
   },
   {
-    "flavor": "Phish Food Popsicle",
-    "brand": "Ben & Jerry's",
-    "type": "Ice Cream",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494078/project3/phish_food_oa7uwz.webp",
+    "flavor": "Chocolate Eclair Good Humor Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776417/project3/popsiclePics/chocolate-eclair_ftuhpr.webp",
+    "price": 3.99,
     "containsDairy": true
   },
   {
-    "flavor": "Dulce de Leche Popsicle",
-    "brand": "Häagen-Dazs",
-    "type": "Ice Cream",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494405/project3/dulce-de-leche_pudnvp.webp",
+    "flavor": "Reese's Peanut Butter Cup Good Humor Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776488/project3/popsiclePics/reeses-bar_uoch1o.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Vanilla King Cone",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776604/project3/popsiclePics/vanilla-king-cone_fo9oy1.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Oreo King Cone",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776824/project3/popsiclePics/oreo-king-cone_hdpzs9.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "WWE Superstars Cookie Sandwich",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776751/project3/popsiclePics/wwe-cookie-sandwich_xwfakz.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Original Good Humor Ice Cream Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776962/project3/popsiclePics/good-humor-bar_bw8mvb.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Firecracker",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777095/project3/popsiclePics/firecrackers_hhn50i.jpg",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Fudge Pops",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777250/project3/popsiclePics/fudgsicle_j6aib6.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Spider-Man Bar",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777319/project3/popsiclePics/spider-man_a80enu.jpg",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Spongebob Bar",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777397/project3/popsiclePics/spongebob-pop_yshjq6.webp",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Crayola® Scribblers",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777484/project3/popsiclePics/crayola-scribblers_kmid68.jpg",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Rainbow Pop Ups",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777599/project3/popsiclePics/pop-ups_f3gpck.webp",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Jolly Rancher",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777699/project3/popsiclePics/jolly-rancher_b7tp6f.jpg",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Twix® Ice Cream Bar",
+    "brand": "Mars",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777887/project3/popsiclePics/twix-bar_dy1glb.png",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Snickers® Ice Cream Bar",
+    "brand": "Mars",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777883/project3/popsiclePics/snickers_cugawg.jpg",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "m&m's® Ice Cream Bar",
+    "brand": "Mars",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777883/project3/popsiclePics/snickers_cugawg.jpg",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Chocolate Chip Cookie Sandwich",
+    "brand": "Nestle Toll house",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629778237/project3/popsiclePics/chipwich_kqced7.webp",
+    "price": 3.99,
     "containsDairy": true
   }
 ]

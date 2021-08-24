@@ -1,42 +1,138 @@
 [
   {
-    "flavor": "Butter Pecan Ice Cream",
+    "flavor": "Butter Pecan Ice Cream Pint",
     "brand": "Häagen-Dazs",
     "type": "Ice Cream",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479367/project3/00055000547321_fkmgam.jpg",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479367/project3/iceCreamPics/00055000547321_fkmgam.jpg",
     "price": 5.99,
     "containsDairy": true
   },
   {
-    "flavor": "Wildberry Cheesecake Ice Cream",
+    "flavor": "Dulce de Leche Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494405/project3/iceCreamPics/dulce-de-leche_pudnvp.webp",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Mint Chip Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629756366/project3/iceCreamPics/mint-chip_iww9um.png",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Mango Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629774911/project3/iceCreamPics/mango_inccik.webp",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Strawberry Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629774966/project3/iceCreamPics/strawberry_xxyfev.webp",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Coffee Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775094/project3/iceCreamPics/coffee_ho0zvk.jpg",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Wildberry Cheesecake Ice Cream Pint",
     "brand": "Trader Joe's",
     "type": "Ice Cream",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479460/project3/mlq3uwr4fn671_xzryh1.jpg",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479460/project3/iceCreamPics/mlq3uwr4fn671_xzryh1.jpg",
     "price": 5.99,
     "containsDairy": true
   },
   {
-    "flavor": "Pineapple Upside Down Cake Ice Cream",
+    "flavor": "Pineapple Upside Down Cake Ice Cream Pint",
     "brand": "Jeni's",
     "type": "Ice Cream",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479584/project3/resize_afyek5.webp",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479584/project3/iceCreamPics/resize_afyek5.webp",
     "price": 8.99,
     "containsDairy": true
   },
   {
-    "flavor": "Phish Food",
+    "flavor": "Phish Food Ice Cream Pint",
     "brand": "Ben & Jerry's",
     "type": "Ice Cream",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494078/project3/phish_food_oa7uwz.webp",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494078/project3/iceCreamPics/phish_food_oa7uwz.webp",
     "price": 6.99,
     "containsDairy": true
   },
   {
-    "flavor": "Dulce de Leche",
-    "brand": "Häagen-Dazs",
+    "flavor": "Milk & Cookies Ice Cream Pint",
+    "brand": "Ben & Jerry's",
     "type": "Ice Cream",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494405/project3/dulce-de-leche_pudnvp.webp",
-    "price": 5.99,
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775825/project3/iceCreamPics/milk-n-cookies_mh0jmp.jpg",
+    "price": 6.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Half Baked Ice Cream Pint",
+    "brand": "Ben & Jerry's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775899/project3/iceCreamPics/half-baked_mtu4mc.jpg",
+    "price": 6.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Oat of this Swirled",
+    "brand": "Ben & Jerry's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776072/project3/iceCreamPics/oat-of-this-world_w0juzs.jpg",
+    "price": 6.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Mediterranean Mint Ice Cream Pint",
+    "brand": "Talenti",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775199/project3/iceCreamPics/mediterranean-mint_bnexxp.webp",
+    "price": 7.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Sicilian Pistachio Gelato Pint",
+    "brand": "Talenti",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775318/project3/iceCreamPics/sicilian-pistachio_ry1cm9.webp",
+    "price": 7.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Caramel Cookie Crunch Gelato Pint",
+    "brand": "Talenti",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775380/project3/iceCreamPics/caramel-cookie-crunch_lus5sq.jpg",
+    "price": 7.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Raspberry Cheesecake Gelato Pint",
+    "brand": "Talenti",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775448/project3/iceCreamPics/raspberry-cheesecake_f5pfmi.jpg",
+    "price": 7.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Key Lime Pie Gelato Pint",
+    "brand": "Talenti",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775518/project3/iceCreamPics/key-lime_zhjaz6.jpg",
+    "price": 7.99,
     "containsDairy": true
   }
 ]
