@@ -1,0 +1,20 @@
+[
+  {
+    "title": "20% Off",
+    "description": "Please enjoy 20% off your cart's subtotal!",
+    "discount": 0.8,
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629823332/project3/offerPics/7802064_eytimx.png"
+  },
+  {
+    "title": "$10 Off $50 Order",
+    "description": "Please enjoy $10 off your order of $50 or more!",
+    "discount": -10,
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629823445/project3/offerPics/17069677_xwuxxn.png"
+  },
+  {
+    "title": "Free Shipping On Your First Order",
+    "description": "Please enjoy free shipping for your first Frizzly order!",
+    "discount": 0,
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629823622/project3/offerPics/18474136_yvbhvo.png"
+  }
+]

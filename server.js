@@ -21,6 +21,7 @@ const parlourRouter = require("./controllers/parlour");
 const popsicleRouter = require("./controllers/popsicle");
 const iceRouter = require("./controllers/ice");
 const drinkRouter = require("./controllers/drink");
+const offerRouter = require("./controllers/offer");
 
 ////////////
 //MIDDLEWARE
@@ -44,6 +45,7 @@ app.use("/parlours", parlourRouter);
 app.use("/popsicles", popsicleRouter);
 app.use("/ice", iceRouter);
 app.use("/drinks", drinkRouter);
+app.use("/offers", offerRouter);
 
 //LISTENER
 app.listen(PORT, () => {
