@@ -1,114 +1,146 @@
 [
   {
-    "flavor": "Lemon-Lime",
-    "brand": "Fla•Vor•Ice",
-    "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
-    "price": 0.99,
-    "containsDairy": false
-  },
-  {
-    "flavor": "Berry Punch",
-    "brand": "Fla•Vor•Ice",
-    "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
-    "price": 0.99,
-    "containsDairy": false
-  },
-  {
-    "flavor": "Grape",
-    "brand": "Fla•Vor•Ice",
-    "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
-    "price": 0.99,
-    "containsDairy": false
-  },
-  {
-    "flavor": "Strawberry",
-    "brand": "Fla•Vor•Ice",
-    "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
-    "price": 0.99,
-    "containsDairy": false
-  },
-  {
-    "flavor": "Orange",
-    "brand": "Fla•Vor•Ice",
-    "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
-    "price": 0.99,
-    "containsDairy": false
-  },
-  {
-    "flavor": "Tropical Punch",
-    "brand": "Fla•Vor•Ice",
-    "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
-    "price": 0.99,
-    "containsDairy": false
-  },
-  {
-    "flavor": "Lemon",
+    "flavor": "Lemon Ice",
     "brand": "Luigi's Real Italian Ice",
     "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629815806/project3/icePics/luigis_lemon_nx0knb.webp",
     "price": 1.99,
     "containsDairy": false
   },
   {
-    "flavor": "Strawberry",
+    "flavor": "Cherry Ice",
     "brand": "Luigi's Real Italian Ice",
     "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629815806/project3/icePics/luigis-cherry_yb6aax.jpg",
     "price": 1.99,
     "containsDairy": false
   },
   {
-    "flavor": "Cherry",
+    "flavor": "Chocolate Ice",
     "brand": "Luigi's Real Italian Ice",
     "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629816643/project3/icePics/luigis-chocolate_tgzkwi.png",
     "price": 1.99,
     "containsDairy": false
   },
   {
-    "flavor": "Chocolate",
+    "flavor": "Mango Ice",
     "brand": "Luigi's Real Italian Ice",
     "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629816603/project3/icePics/luigis-mango_u8ibct.webp",
     "price": 1.99,
     "containsDairy": false
   },
   {
-    "flavor": "Blue Raspberry",
+    "flavor": "Orange Ice",
     "brand": "Luigi's Real Italian Ice",
     "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629817262/project3/icePics/luigis-orange_fm7b73.png",
     "price": 1.99,
     "containsDairy": false
   },
   {
-    "flavor": "Mango",
-    "brand": "Luigi's Real Italian Ice",
+    "flavor": "Root Beer Ice",
+    "brand": "Lindy's Homemade Italian Ice",
     "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629817694/project3/icePics/lindy-root-beer_gloavf.png",
     "price": 1.99,
     "containsDairy": false
   },
   {
-    "flavor": "Watermelon",
-    "brand": "Luigi's Real Italian Ice",
+    "flavor": "Watermelon Ice",
+    "brand": "Lindy's Homemade Italian Ice",
     "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629817694/project3/icePics/lindy-watermelon_vsqmq1.png",
     "price": 1.99,
     "containsDairy": false
   },
   {
-    "flavor": "Orange",
-    "brand": "Luigi's Real Italian Ice",
+    "flavor": "Blue Raspberry Ice",
+    "brand": "Lindy's Homemade Italian Ice",
     "type": "Ice",
-    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629737046/project3/icePics/flavorice_s5okrt.png",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629817693/project3/icePics/lindy-blue_riaalt.png",
     "price": 1.99,
     "containsDairy": false
+  },
+  {
+    "flavor": "Cherry Ice",
+    "brand": "Lindy's Homemade Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629817694/project3/icePics/lindy-cherry_gxmi6q.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Soft Frozen Lemonade",
+    "brand": "Minute Maid",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818290/project3/icePics/soft-lemon_dmtry1.webp",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Soft Frozen Cherry Limeade",
+    "brand": "Minute Maid",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818290/project3/icePics/soft-cherry-limeade_msana5.jpg",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Soft Frozen Strawberry Lemonade",
+    "brand": "Minute Maid",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818290/project3/icePics/soft-strawberry_sktqoq.webp",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Tamarind Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818767/project3/icePics/mamitas-tamarind_ben6x4.jpg",
+    "price": 2.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Coconut Cream Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818766/project3/icePics/mamitas-coconut_rulllu.jpg",
+    "price": 2.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Passion Cream Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818767/project3/icePics/mamitas-passion_ykjqrx.jpg",
+    "price": 2.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Batata Cream Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818766/project3/icePics/mamitas-batata_za1fbt.jpg",
+    "price": 2.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Bizcocho Cream (Cake) Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818766/project3/icePics/mamitas-bizcocho_d2x9yr.jpg",
+    "price": 2.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Raspberry Cream Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818767/project3/icePics/mamitas-rasp-cream_kvewhc.jpg",
+    "price": 2.99,
+    "containsDairy": true
   }
 ]
