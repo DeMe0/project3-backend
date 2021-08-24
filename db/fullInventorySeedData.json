@@ -1,0 +1,541 @@
+[
+  {
+    "flavor": "Butter Pecan Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479367/project3/iceCreamPics/00055000547321_fkmgam.jpg",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Dulce de Leche Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494405/project3/iceCreamPics/dulce-de-leche_pudnvp.webp",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Mint Chip Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629756366/project3/iceCreamPics/mint-chip_iww9um.png",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Mango Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629774911/project3/iceCreamPics/mango_inccik.webp",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Strawberry Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629774966/project3/iceCreamPics/strawberry_xxyfev.webp",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Coffee Ice Cream Pint",
+    "brand": "Häagen-Dazs",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775094/project3/iceCreamPics/coffee_ho0zvk.jpg",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Wildberry Cheesecake Ice Cream Pint",
+    "brand": "Trader Joe's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479460/project3/iceCreamPics/mlq3uwr4fn671_xzryh1.jpg",
+    "price": 5.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Pineapple Upside Down Cake Ice Cream Pint",
+    "brand": "Jeni's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629479584/project3/iceCreamPics/resize_afyek5.webp",
+    "price": 8.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Phish Food Ice Cream Pint",
+    "brand": "Ben & Jerry's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629494078/project3/iceCreamPics/phish_food_oa7uwz.webp",
+    "price": 6.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Milk & Cookies Ice Cream Pint",
+    "brand": "Ben & Jerry's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775825/project3/iceCreamPics/milk-n-cookies_mh0jmp.jpg",
+    "price": 6.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Half Baked Ice Cream Pint",
+    "brand": "Ben & Jerry's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775899/project3/iceCreamPics/half-baked_mtu4mc.jpg",
+    "price": 6.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Oat of this Swirled",
+    "brand": "Ben & Jerry's",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776072/project3/iceCreamPics/oat-of-this-world_w0juzs.jpg",
+    "price": 6.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Mediterranean Mint Ice Cream Pint",
+    "brand": "Talenti",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775199/project3/iceCreamPics/mediterranean-mint_bnexxp.webp",
+    "price": 7.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Sicilian Pistachio Gelato Pint",
+    "brand": "Talenti",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775318/project3/iceCreamPics/sicilian-pistachio_ry1cm9.webp",
+    "price": 7.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Caramel Cookie Crunch Gelato Pint",
+    "brand": "Talenti",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775380/project3/iceCreamPics/caramel-cookie-crunch_lus5sq.jpg",
+    "price": 7.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Raspberry Cheesecake Gelato Pint",
+    "brand": "Talenti",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775448/project3/iceCreamPics/raspberry-cheesecake_f5pfmi.jpg",
+    "price": 7.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Key Lime Pie Gelato Pint",
+    "brand": "Talenti",
+    "type": "Ice Cream",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629775518/project3/iceCreamPics/key-lime_zhjaz6.jpg",
+    "price": 7.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Lemon Ice",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629815806/project3/icePics/luigis_lemon_nx0knb.webp",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Cherry Ice",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629815806/project3/icePics/luigis-cherry_yb6aax.jpg",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Chocolate Ice",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629816643/project3/icePics/luigis-chocolate_tgzkwi.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Mango Ice",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629816603/project3/icePics/luigis-mango_u8ibct.webp",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Orange Ice",
+    "brand": "Luigi's Real Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629817262/project3/icePics/luigis-orange_fm7b73.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Root Beer Ice",
+    "brand": "Lindy's Homemade Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629817694/project3/icePics/lindy-root-beer_gloavf.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Watermelon Ice",
+    "brand": "Lindy's Homemade Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629817694/project3/icePics/lindy-watermelon_vsqmq1.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Blue Raspberry Ice",
+    "brand": "Lindy's Homemade Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629817693/project3/icePics/lindy-blue_riaalt.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Cherry Ice",
+    "brand": "Lindy's Homemade Italian Ice",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629817694/project3/icePics/lindy-cherry_gxmi6q.png",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Soft Frozen Lemonade",
+    "brand": "Minute Maid",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818290/project3/icePics/soft-lemon_dmtry1.webp",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Soft Frozen Cherry Limeade",
+    "brand": "Minute Maid",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818290/project3/icePics/soft-cherry-limeade_msana5.jpg",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Soft Frozen Strawberry Lemonade",
+    "brand": "Minute Maid",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818290/project3/icePics/soft-strawberry_sktqoq.webp",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Tamarind Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818767/project3/icePics/mamitas-tamarind_ben6x4.jpg",
+    "price": 2.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Coconut Cream Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818766/project3/icePics/mamitas-coconut_rulllu.jpg",
+    "price": 2.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Passion Cream Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818767/project3/icePics/mamitas-passion_ykjqrx.jpg",
+    "price": 2.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Batata Cream Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818766/project3/icePics/mamitas-batata_za1fbt.jpg",
+    "price": 2.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Bizcocho Cream (Cake) Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818766/project3/icePics/mamitas-bizcocho_d2x9yr.jpg",
+    "price": 2.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Raspberry Cream Ice",
+    "brand": "Mamita's",
+    "type": "Ice",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629818767/project3/icePics/mamitas-rasp-cream_kvewhc.jpg",
+    "price": 2.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Toasted Almond Good Humor Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776158/project3/popsiclePics/toasted-almond_cvhoui.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Strawberry Shortcake Good Humor Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776228/project3/popsiclePics/strawberry-shortcake-bar_gvrmtk.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Oreo Good Humor Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776325/project3/popsiclePics/oreo-bar_ha4hu6.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Chocolate Eclair Good Humor Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776417/project3/popsiclePics/chocolate-eclair_ftuhpr.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Reese's Peanut Butter Cup Good Humor Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776488/project3/popsiclePics/reeses-bar_uoch1o.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Vanilla King Cone",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776604/project3/popsiclePics/vanilla-king-cone_fo9oy1.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Oreo King Cone",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776824/project3/popsiclePics/oreo-king-cone_hdpzs9.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "WWE Superstars Cookie Sandwich",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776751/project3/popsiclePics/wwe-cookie-sandwich_xwfakz.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Original Good Humor Ice Cream Bar",
+    "brand": "Good Humor",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629776962/project3/popsiclePics/good-humor-bar_bw8mvb.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Firecracker",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777095/project3/popsiclePics/firecrackers_hhn50i.jpg",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Fudge Pops",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777250/project3/popsiclePics/fudgsicle_j6aib6.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Spider-Man Bar",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777319/project3/popsiclePics/spider-man_a80enu.jpg",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Spongebob Bar",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777397/project3/popsiclePics/spongebob-pop_yshjq6.webp",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Crayola® Scribblers",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777484/project3/popsiclePics/crayola-scribblers_kmid68.jpg",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Rainbow Pop Ups",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777599/project3/popsiclePics/pop-ups_f3gpck.webp",
+    "price": 1.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Jolly Rancher",
+    "brand": "Popsicle",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777699/project3/popsiclePics/jolly-rancher_b7tp6f.jpg",
+    "price": 3.99,
+    "containsDairy": false
+  },
+  {
+    "flavor": "Twix® Ice Cream Bar",
+    "brand": "Mars",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777887/project3/popsiclePics/twix-bar_dy1glb.png",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Snickers® Ice Cream Bar",
+    "brand": "Mars",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777883/project3/popsiclePics/snickers_cugawg.jpg",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "m&m's® Ice Cream Bar",
+    "brand": "Mars",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629777883/project3/popsiclePics/snickers_cugawg.jpg",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Chocolate Chip Cookie Sandwich",
+    "brand": "Nestle Toll house",
+    "type": "Popsicle",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629778237/project3/popsiclePics/chipwich_kqced7.webp",
+    "price": 3.99,
+    "containsDairy": true
+  },
+  {
+    "flavor": "Vanilla Malt",
+    "store": "Eddie's Sweet Shop",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629739769/project3/drinkPics/vanilla-malted-milk-shake_un945z.jpg",
+    "price": 6.49,
+    "containsDairy": true,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Ice Cream Float",
+    "store": "Eddie's Sweet Shop",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629739868/project3/drinkPics/ice-cream-float_sljaqa.jpg",
+    "price": 6.49,
+    "containsDairy": true,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Salted Caramel Whiskey",
+    "store": "Morgenstern's Finest Ice Cream",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629749208/project3/drinkPics/Salted-Caramel-Whiskey_yr2xgk.jpg",
+    "price": 18,
+    "containsDairy": true,
+    "containsAlcohol": true
+  },
+  {
+    "flavor": "Strawberry Daiquiri",
+    "store": "Morganstern's Finest Ice Cream",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629749241/project3/drinkPics/daiquiri_byuniu.jpg",
+    "price": 18,
+    "containsDairy": true,
+    "containsAlcohol": true
+  },
+  {
+    "flavor": "The Bake Shake",
+    "store": "Cookie Spin",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629750219/project3/drinkPics/bake-shake_moyqii.webp",
+    "price": 10.5,
+    "containsDairy": true,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Coca Cola ICEE",
+    "store": "ICEE",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629821997/project3/drinkPics/icee-coke_qf8fy8.jpg",
+    "price": 5.99,
+    "containsDairy": false,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Cherry ICEE",
+    "store": "ICEE",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629821997/project3/drinkPics/icee-cherry_omfkvh.png",
+    "price": 5.99,
+    "containsDairy": false,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Blue Raspberry ICEE",
+    "store": "ICEE",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629821997/project3/drinkPics/icee-blue_oxuedj.png",
+    "price": 5.99,
+    "containsDairy": false,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Ralphaccino",
+    "store": "Ralph's Famous Italian Ices",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629822240/project3/drinkPics/ralphs-ralphaccino_e6fefy.jpg",
+    "price": 5.99,
+    "containsDairy": true,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Iceberg (Soft Serve & Smoothie Mixed)",
+    "store": "Ralph's Famous Italian Ices",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629822240/project3/drinkPics/ralphs-iceberg_clxdf7.jpg",
+    "price": 5.99,
+    "containsDairy": true,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Misto® Shake (Italian Ice & Frozen Custard)",
+    "store": "Rita's Frozen Custard",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629822615/project3/drinkPics/ritas-misto_tdkyij.png",
+    "price": 5.99,
+    "containsDairy": true,
+    "containsAlcohol": false
+  }
+]
