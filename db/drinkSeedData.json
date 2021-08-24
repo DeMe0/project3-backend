@@ -43,5 +43,59 @@
     "price": 10.5,
     "containsDairy": true,
     "containsAlcohol": false
+  },
+  {
+    "flavor": "Coca Cola ICEE",
+    "store": "ICEE",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629821997/project3/drinkPics/icee-coke_qf8fy8.jpg",
+    "price": 5.99,
+    "containsDairy": false,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Cherry ICEE",
+    "store": "ICEE",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629821997/project3/drinkPics/icee-cherry_omfkvh.png",
+    "price": 5.99,
+    "containsDairy": false,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Blue Raspberry ICEE",
+    "store": "ICEE",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629821997/project3/drinkPics/icee-blue_oxuedj.png",
+    "price": 5.99,
+    "containsDairy": false,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Ralphaccino",
+    "store": "Ralph's Famous Italian Ices",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629822240/project3/drinkPics/ralphs-ralphaccino_e6fefy.jpg",
+    "price": 5.99,
+    "containsDairy": true,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Iceberg (Soft Serve & Smoothie Mixed)",
+    "store": "Ralph's Famous Italian Ices",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629822240/project3/drinkPics/ralphs-iceberg_clxdf7.jpg",
+    "price": 5.99,
+    "containsDairy": true,
+    "containsAlcohol": false
+  },
+  {
+    "flavor": "Misto® Shake (Italian Ice & Frozen Custard)",
+    "store": "Rita's Frozen Custard",
+    "type": "Drink",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629822615/project3/drinkPics/ritas-misto_tdkyij.png",
+    "price": 5.99,
+    "containsDairy": true,
+    "containsAlcohol": false
   }
 ]

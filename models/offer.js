@@ -5,14 +5,14 @@ const offerSchema = new Schema(
   {
     title: String,
     description: String,
-    brand: String,
+    discount: Number,
     img: String,
   },
   { timestamps: true }
 );
 
 //OFFER MODEL
-const Offer = model("ItalianIce", offerSchema);
+const Offer = model("Offer", offerSchema);
 
 //EXPORT MODEL
 module.exports = Offer;

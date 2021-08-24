@@ -48,6 +48,14 @@
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629736699/project3/parlourPics/eddies_sweet_shop_jc3hrg.jpg"
   },
   {
+    "name": "Ralph's Famous Italian Ices",
+    "city": "New York",
+    "address": "145 Avenue A New York, NY 10009",
+    "rating": "4.3",
+    "ratingQty": "823",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629821186/project3/parlourPics/ralphs_e173tg.jpg"
+  },
+  {
     "name": "Taiyaki Chicago",
     "city": "Chicago",
     "address": "2468 N Clark St Chicago, IL 60614",
@@ -166,5 +174,13 @@
     "rating": "4.5",
     "ratingQty": "603",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629754763/project3/parlourPics/bumsan_uscct9.jpg"
+  },
+  {
+    "name": "Rita's Frozen Custard",
+    "city": "Los Angeles",
+    "address": "11073 W Pico Blvd Los Angeles, CA 90064",
+    "rating": "4.2",
+    "ratingQty": "172",
+    "img": "https://res.cloudinary.com/ademeo/image/upload/v1629822408/project3/parlourPics/ritas-store_xp3vrv.jpg"
   }
 ]
