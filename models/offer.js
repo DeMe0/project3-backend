@@ -5,7 +5,8 @@ const offerSchema = new Schema(
   {
     title: String,
     description: String,
-    discount: Number,
+    price: Number,
+    flavor: String,
     img: String,
   },
   { timestamps: true }
