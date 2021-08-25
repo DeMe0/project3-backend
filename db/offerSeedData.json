@@ -2,13 +2,15 @@
   {
     "title": "$10 Off Your Order",
     "description": "Please enjoy $10 off your order of $50 or more!",
-    "discount": -10,
+    "price": -10,
+    "flavor": "$10 Promo",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629823445/project3/offerPics/17069677_xwuxxn.png"
   },
   {
     "title": "Free Shipping On Your First Order",
     "description": "Please enjoy free shipping for your first Frizzly order!",
-    "discount": -2.49,
+    "price": -2.49,
+    "flavor": "Free Shipping",
     "img": "https://res.cloudinary.com/ademeo/image/upload/v1629823622/project3/offerPics/18474136_yvbhvo.png"
   }
 ]
